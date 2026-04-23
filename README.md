@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Bouderraoui&fontSize=50&fontColor=fff&fontAlignY=38&desc=Etudiant%20en%20developpement%20%7C%20C%23%20%26%20Web&descSize=18&descAlignY=58&animation=twinkling" alt="Hassan Bouderraoui" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=boudhassan&style=flat&color=blueviolet&label=PROFILE+VIEWS)
