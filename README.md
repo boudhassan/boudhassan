@@ -34,11 +34,11 @@ public class About : Me
 
     public Dictionary<string, string[]> Outils = new()
     {
-        { "Langages",      new[] { "C#", "HTML", "CSS", "JavaScript" } },
-        { "Frameworks",    new[] { ".NET", "ASP.NET", "Bootstrap" } },
+        { "Langages",      new[] { "C#", "HTML", "CSS" } },
+        { "Frameworks",    new[] { ".NET", "ASP.NET",} },
         { "Bases de données", new[] { "SQL Server", "SQLite" } },
         { "Éditeurs",      new[] { "Visual Studio", "VS Code" } },
-        { "Outils",        new[] { "Git", "GitHub", "Figma" } }
+        { "Outils",        new[] { "Git", "GitHub" } }
     };
 
     public string FunFact()
@@ -46,7 +46,8 @@ public class About : Me
 }
 ```
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; Actuellement en train d'apprendre **ASP.NET Core & Blazor**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Pingouin" width="15%"/><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; Actuellement en train d'apprendre **ASP.NET **.
+- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Pingouin" width="15%"/><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20"/>&nbsp;&nbsp;&nbsp; Je kiffe créer des interfaces **HTML/CSS** propres et responsives. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>&nbsp;&nbsp; Pose-moi des questions sur **C#, le web, ou le dev en général**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; Retrouve-moi sur GitHub : **[boudhassan](https://github.com/boudhassan)**<br>
