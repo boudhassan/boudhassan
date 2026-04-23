@@ -1,6 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Bouderraoui&fontSize=50&fontColor=fff&fontAlignY=38&desc=Student%20Developer%20%7C%20C%23%20%26%20Web&descSize=18&descAlignY=58&animation=twinkling" alt="Hassan Bouderraoui" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=boudhassan&style=flat&color=blueviolet&label=PROFILE+VIEWS)
@@ -21,7 +19,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ```csharp
