@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Bouderraoui&fontSize=50&fontColor=fff&fontAlignY=38&desc=Student%20Developer%20%7C%20C%23%20%26%20Web&descSize=18&descAlignY=58&animation=twinkling" alt="Hassan Bouderraoui" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=boudhassan&style=flat&color=blueviolet&label=PROFILE+VIEWS)
@@ -9,7 +10,7 @@
 
 <hr>
 
-![tools](https://img.shields.io/badge/-%F0%9F%9A%80%20Mes%20outils-blueviolet)
+![tools](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20Use-blueviolet)
 ![sep](https://img.shields.io/badge/-%3A-blueviolet)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -24,34 +25,33 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ```csharp
-// Qui suis-je ?
+// Who am I?
 
 public class About : Me
 {
-    public string Nom        = "Hassan Bouderraoui";
-    public string Statut     = "Étudiant en développement";
-    public string Passion    = "Coder, apprendre, créer";
+    public string Name       = "Hassan Bouderraoui";
+    public string Status     = "Student Developer";
+    public string Passion    = "Coding, learning, building";
 
-    public Dictionary<string, string[]> Outils = new()
+    public Dictionary<string, string[]> Tools = new()
     {
-        { "Langages",      new[] { "C#", "HTML", "CSS" } },
-        { "Frameworks",    new[] { ".NET", "ASP.NET",} },
-        { "Bases de données", new[] { "SQL Server", "SQLite" } },
-        { "Éditeurs",      new[] { "Visual Studio", "VS Code" } },
-        { "Outils",        new[] { "Git", "GitHub" } }
+        { "Languages",   new[] { "C#", "HTML", "CSS", "JavaScript" } },
+        { "Frameworks",  new[] { ".NET", "ASP.NET", "Bootstrap" } },
+        { "Databases",   new[] { "SQL Server", "SQLite" } },
+        { "Editors",     new[] { "Visual Studio", "VS Code" } },
+        { "Other Tools", new[] { "Git", "GitHub", "Figma" } }
     };
 
     public string FunFact()
-        => "Le meilleur débogueur, c'est encore une bonne nuit de sommeil. 😴";
+        => "The best debugger is still a good night's sleep. 😴";
 }
 ```
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; Actuellement en train d'apprendre **ASP.NET **.
-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Pingouin" width="15%"/><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20"/>&nbsp;&nbsp;&nbsp; Je kiffe créer des interfaces **HTML/CSS** propres et responsives. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>&nbsp;&nbsp; Pose-moi des questions sur **C#, le web, ou le dev en général**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; Retrouve-moi sur GitHub : **[boudhassan](https://github.com/boudhassan)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;&nbsp;&nbsp; Fun fact : Un point-virgule oublié peut ruiner une nuit entière. **;**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; Currently learning **ASP.NET Core & Blazor**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%"/><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20"/>&nbsp;&nbsp;&nbsp; I love building clean and responsive **HTML/CSS** interfaces. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>&nbsp;&nbsp; Ask me about **C#, web development, or anything tech**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; Find me on GitHub: **[boudhassan](https://github.com/boudhassan)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;&nbsp;&nbsp; Fun fact: A missing semicolon can ruin your entire night. **;**<br>
 
 <div align="center">
 
@@ -64,15 +64,15 @@ public class About : Me
 
 <hr>
 
-**Le cycle du dev** 🔄<br><br>
+**The Dev Cycle** 🔄<br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Ça bug!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="It's broken!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Ça marche!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Ça marche mais tu sais pas pourquoi!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but you don't know why!"/>
 
 <br>
-<sub>🐛 Ça bug &nbsp;&nbsp;|&nbsp;&nbsp; ✅ Ça marche &nbsp;&nbsp;|&nbsp;&nbsp; 🤯 Ça marche... mais comment ?!</sub>
+<sub>🐛 It's broken &nbsp;&nbsp;|&nbsp;&nbsp; ✅ It's working &nbsp;&nbsp;|&nbsp;&nbsp; 🤯 It works... but how?!</sub>
 
 </div>
